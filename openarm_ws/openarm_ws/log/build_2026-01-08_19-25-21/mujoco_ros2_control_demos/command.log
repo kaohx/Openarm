@@ -1,0 +1,4 @@
+Invoking command in '/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control_demos': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control_demos -- -j8 -l8
+Invoked command in '/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control_demos' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control_demos -- -j8 -l8
+Invoking command in '/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control_demos': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control_demos
+Invoked command in '/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control_demos' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control_demos

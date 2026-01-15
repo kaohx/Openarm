@@ -1,0 +1,7 @@
+[0mCMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+Please set them or make sure they are set and tested correctly in the CMake files:
+MUJOCO_LIB
+    linked by target "mujoco_ros2_control" in directory /home/shiver/Desktop/openarm_ws/src/mujoco_ros2_control/mujoco_ros2_control
+    linked by target "mujoco_system_plugins" in directory /home/shiver/Desktop/openarm_ws/src/mujoco_ros2_control/mujoco_ros2_control
+[0m
+[0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m

@@ -1,0 +1,3 @@
+[console_scripts]
+joint_state_subscriber = openarm_joint_state_pkg.openarm_joint_state_subscriber:main
+

@@ -1,0 +1,75 @@
+[0.009s] Invoking command in '/home/shiver/Desktop/openarm_ws/build/openarm_moveit_config': AMENT_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:/opt/ros/humble /usr/bin/cmake /home/shiver/Desktop/openarm_ws/src/openarm_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/shiver/Desktop/openarm_ws/install/openarm_moveit_config
+[0.079s] -- The C compiler identification is GNU 11.4.0
+[0.153s] -- The CXX compiler identification is GNU 11.4.0
+[0.162s] -- Detecting C compiler ABI info
+[0.274s] -- Detecting C compiler ABI info - done
+[0.282s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.282s] -- Detecting C compile features
+[0.282s] -- Detecting C compile features - done
+[0.287s] -- Detecting CXX compiler ABI info
+[0.388s] -- Detecting CXX compiler ABI info - done
+[0.399s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.399s] -- Detecting CXX compile features
+[0.400s] -- Detecting CXX compile features - done
+[0.402s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.597s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.703s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.821s] -- Configuring done
+[0.823s] -- Generating done
+[0.827s] -- Build files have been written to: /home/shiver/Desktop/openarm_ws/build/openarm_moveit_config
+[0.830s] Invoked command in '/home/shiver/Desktop/openarm_ws/build/openarm_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:/opt/ros/humble /usr/bin/cmake /home/shiver/Desktop/openarm_ws/src/openarm_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/shiver/Desktop/openarm_ws/install/openarm_moveit_config
+[0.833s] Invoking command in '/home/shiver/Desktop/openarm_ws/build/openarm_moveit_config': AMENT_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:/opt/ros/humble /usr/bin/cmake --build /home/shiver/Desktop/openarm_ws/build/openarm_moveit_config -- -j8 -l8
+[0.881s] Invoked command in '/home/shiver/Desktop/openarm_ws/build/openarm_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:/opt/ros/humble /usr/bin/cmake --build /home/shiver/Desktop/openarm_ws/build/openarm_moveit_config -- -j8 -l8
+[0.886s] Invoking command in '/home/shiver/Desktop/openarm_ws/build/openarm_moveit_config': AMENT_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:/opt/ros/humble /usr/bin/cmake --install /home/shiver/Desktop/openarm_ws/build/openarm_moveit_config
+[0.892s] -- Install configuration: ""
+[0.893s] -- Execute custom install script
+[0.893s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/ament_index/resource_index/package_run_dependencies/openarm_moveit_config
+[0.904s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/ament_index/resource_index/parent_prefix_path/openarm_moveit_config
+[0.914s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/environment/ament_prefix_path.sh
+[0.925s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/environment/ament_prefix_path.dsv
+[0.936s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/environment/path.sh
+[0.947s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/environment/path.dsv
+[0.958s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/local_setup.bash
+[0.970s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/local_setup.sh
+[0.980s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/local_setup.zsh
+[0.992s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/local_setup.dsv
+[1.004s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/package.dsv
+[1.016s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/ament_index/resource_index/packages/openarm_moveit_config
+[1.028s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/cmake/openarm_moveit_configConfig.cmake
+[1.040s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/cmake/openarm_moveit_configConfig-version.cmake
+[1.052s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/package.xml
+[1.065s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/demo.launch.py
+[1.078s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/demo_full.launch.py
+[1.089s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/demo_full_V2.launch.py
+[1.100s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/demo_joint.launch.py
+[1.112s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/demo_v2.launch.py
+[1.124s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/move_group.launch.py
+[1.135s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/moveit_rviz.launch.py
+[1.148s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/mujoco_demo.launch.py
+[1.159s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/openarm_gazebo_demo_v2.launch.py
+[1.171s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/rsp.launch.py
+[1.182s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/setup_assistant.launch.py
+[1.193s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/spawn_controllers.launch.py
+[1.204s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/static_virtual_joint_tfs.launch.py
+[1.214s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/launch/warehouse_db.launch.py
+[1.224s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/initial_positions.yaml
+[1.234s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/joint_limits.yaml
+[1.247s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/kinematics.yaml
+[1.258s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/moveit.rviz
+[1.268s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/moveit_controllers.yaml
+[1.279s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/mujoco_openarm.urdf.xacro
+[1.290s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/mujoco_openarm_bimanual_cam.urdf
+[1.300s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/mujoco_ros2_control_effort.xacro
+[1.310s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/mujoco_ros2_control_position.xacro
+[1.320s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/mujoco_ros2_controllers.yaml
+[1.332s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/openarm.gazebo.ros2_control.xacro
+[1.343s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/openarm.gazebo.urdf.xacro
+[1.355s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/openarm.ros2_control.xacro
+[1.371s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/openarm.srdf
+[1.384s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/openarm.urdf.xacro
+[1.395s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/openarm_bimanual_cam.urdf
+[1.406s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/pilz_cartesian_limits.yaml
+[1.417s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/ros2_controllers.yaml
+[1.427s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/config/sensors_3d.yaml
+[1.440s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_moveit_config/share/openarm_moveit_config/.setup_assistant
+[1.456s] Invoked command in '/home/shiver/Desktop/openarm_ws/build/openarm_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/shiver/Desktop/openarm_ws/install/openarm_description:/opt/ros/humble /usr/bin/cmake --install /home/shiver/Desktop/openarm_ws/build/openarm_moveit_config

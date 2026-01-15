@@ -1,0 +1,9 @@
+source;share/openarm_joint_state_pkg/hook/pythonpath.ps1
+source;share/openarm_joint_state_pkg/hook/pythonpath.dsv
+source;share/openarm_joint_state_pkg/hook/pythonpath.sh
+source;share/openarm_joint_state_pkg/hook/ament_prefix_path.ps1
+source;share/openarm_joint_state_pkg/hook/ament_prefix_path.dsv
+source;share/openarm_joint_state_pkg/hook/ament_prefix_path.sh
+source;../../build/openarm_joint_state_pkg/share/openarm_joint_state_pkg/hook/pythonpath_develop.ps1
+source;../../build/openarm_joint_state_pkg/share/openarm_joint_state_pkg/hook/pythonpath_develop.dsv
+source;../../build/openarm_joint_state_pkg/share/openarm_joint_state_pkg/hook/pythonpath_develop.sh

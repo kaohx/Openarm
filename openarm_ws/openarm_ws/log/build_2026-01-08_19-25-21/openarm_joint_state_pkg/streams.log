@@ -1,0 +1,21 @@
+[0.854s] Invoking command in '/home/shiver/Desktop/openarm_ws/build/openarm_joint_state_pkg': PYTHONPATH=/home/shiver/Desktop/openarm_ws/build/openarm_joint_state_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shiver/Desktop/openarm_ws/install/openarm_joint_state_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shiver/Desktop/openarm_ws/build/openarm_joint_state_pkg/build --no-deps symlink_data
+[1.204s] running develop
+[1.279s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.279s]   warnings.warn(
+[1.280s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.280s]   warnings.warn(
+[1.551s] running egg_info
+[1.552s] writing openarm_joint_state_pkg.egg-info/PKG-INFO
+[1.553s] writing dependency_links to openarm_joint_state_pkg.egg-info/dependency_links.txt
+[1.553s] writing entry points to openarm_joint_state_pkg.egg-info/entry_points.txt
+[1.553s] writing requirements to openarm_joint_state_pkg.egg-info/requires.txt
+[1.554s] writing top-level names to openarm_joint_state_pkg.egg-info/top_level.txt
+[1.556s] reading manifest file 'openarm_joint_state_pkg.egg-info/SOURCES.txt'
+[1.561s] writing manifest file 'openarm_joint_state_pkg.egg-info/SOURCES.txt'
+[1.566s] running build_ext
+[1.566s] Creating /home/shiver/Desktop/openarm_ws/install/openarm_joint_state_pkg/lib/python3.10/site-packages/openarm-joint-state-pkg.egg-link (link to .)
+[1.566s] Installing joint_state_subscriber script to /home/shiver/Desktop/openarm_ws/install/openarm_joint_state_pkg/lib/openarm_joint_state_pkg
+[1.566s] 
+[1.566s] Installed /home/shiver/Desktop/openarm_ws/build/openarm_joint_state_pkg
+[1.566s] running symlink_data
+[1.601s] Invoked command in '/home/shiver/Desktop/openarm_ws/build/openarm_joint_state_pkg' returned '0': PYTHONPATH=/home/shiver/Desktop/openarm_ws/build/openarm_joint_state_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shiver/Desktop/openarm_ws/install/openarm_joint_state_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shiver/Desktop/openarm_ws/build/openarm_joint_state_pkg/build --no-deps symlink_data

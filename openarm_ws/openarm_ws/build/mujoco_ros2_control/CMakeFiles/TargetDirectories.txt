@@ -1,0 +1,11 @@
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/uninstall.dir
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/mujoco_ros2_control_uninstall.dir
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/mujoco_system_plugins.dir
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/mujoco_ros2_control.dir
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/test.dir
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/edit_cache.dir
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/rebuild_cache.dir
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/list_install_components.dir
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/install.dir
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/install/local.dir
+/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/CMakeFiles/install/strip.dir

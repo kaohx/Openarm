@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/shiver/Desktop/openarm_ws/build/mujoco_ros2_control/libmujoco_system_plugins.so" "TARGETS" "mujoco_system_plugins" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

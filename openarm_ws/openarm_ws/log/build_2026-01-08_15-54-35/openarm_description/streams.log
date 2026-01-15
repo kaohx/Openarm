@@ -1,0 +1,105 @@
+[0.027s] Invoking command in '/home/shiver/Desktop/openarm_ws/build/openarm_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/shiver/Desktop/openarm_ws/src/openarm_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/shiver/Desktop/openarm_ws/install/openarm_description
+[0.193s] -- The C compiler identification is GNU 11.4.0
+[0.352s] -- The CXX compiler identification is GNU 11.4.0
+[0.371s] -- Detecting C compiler ABI info
+[0.472s] -- Detecting C compiler ABI info - done
+[0.483s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.485s] -- Detecting C compile features
+[0.486s] -- Detecting C compile features - done
+[0.493s] -- Detecting CXX compiler ABI info
+[0.643s] -- Detecting CXX compiler ABI info - done
+[0.654s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.654s] -- Detecting CXX compile features
+[0.654s] -- Detecting CXX compile features - done
+[0.662s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.945s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.065s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.140s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.317s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.320s] -- Added test 'lint_cmake' to check CMake code style
+[1.323s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.332s] -- Added test 'xmllint' to check XML markup files
+[1.337s] -- Configuring done
+[1.361s] -- Generating done
+[1.364s] -- Build files have been written to: /home/shiver/Desktop/openarm_ws/build/openarm_description
+[1.372s] Invoked command in '/home/shiver/Desktop/openarm_ws/build/openarm_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/shiver/Desktop/openarm_ws/src/openarm_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/shiver/Desktop/openarm_ws/install/openarm_description
+[1.373s] Invoking command in '/home/shiver/Desktop/openarm_ws/build/openarm_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shiver/Desktop/openarm_ws/build/openarm_description -- -j8 -l8
+[1.424s] Invoked command in '/home/shiver/Desktop/openarm_ws/build/openarm_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/shiver/Desktop/openarm_ws/build/openarm_description -- -j8 -l8
+[1.438s] Invoking command in '/home/shiver/Desktop/openarm_ws/build/openarm_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shiver/Desktop/openarm_ws/build/openarm_description
+[1.450s] -- Install configuration: ""
+[1.450s] -- Execute custom install script
+[1.450s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/launch/display_openarm.launch.py
+[1.463s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link0_symp.stl
+[1.473s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link1_symp.stl
+[1.484s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link2_symp.stl
+[1.495s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link3_symp.stl
+[1.506s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link4_symp.stl
+[1.517s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link5_symp.stl
+[1.529s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link6_symp.stl
+[1.540s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link7_symp.stl
+[1.551s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link0.dae
+[1.563s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link0.stl
+[1.574s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link1.dae
+[1.587s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link1.stl
+[1.597s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link2.dae
+[1.608s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link2.stl
+[1.620s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link3.dae
+[1.630s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link3.stl
+[1.641s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link4.dae
+[1.654s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link4.stl
+[1.665s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link5.dae
+[1.677s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link5.stl
+[1.688s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link6.dae
+[1.700s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link6.stl
+[1.711s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link7.dae
+[1.721s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link7.stl
+[1.735s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/body/v10/collision/body_link0_symp.stl
+[1.746s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/body/v10/visual/body_link0.dae
+[1.758s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/body/v10/visual/body_link0.stl
+[1.768s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/collision/finger.stl
+[1.779s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/collision/hand.stl
+[1.790s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual/finger.dae
+[1.801s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual/finger.stl
+[1.811s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual/hand.dae
+[1.821s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/rviz/arm_only.rviz
+[1.831s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/rviz/bimanual.rviz
+[1.843s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/arm/openarm_arm.xacro
+[1.854s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/arm/openarm_macro.xacro
+[1.865s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/body/openarm_body.xacro
+[1.875s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/body/openarm_body_macro.xacro
+[1.887s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/ee/ee_with_one_link.xacro
+[1.898s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/ee/openarm_hand.xacro
+[1.908s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/ee/openarm_hand_arguments.xacro
+[1.919s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/ee/openarm_hand_macro.xacro
+[1.929s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/robot/openarm_robot.xacro
+[1.940s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/robot/v10.urdf.xacro
+[1.952s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/ros2_control/openarm.bimanual.ros2_control.xacro
+[1.963s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/urdf/ros2_control/openarm.ros2_control.xacro
+[1.974s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/arm/v10/inertials.yaml
+[1.985s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/arm/v10/joint_limits.yaml
+[1.998s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/arm/v10/kinematics.yaml
+[2.009s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/arm/v10/kinematics_link.yaml
+[2.020s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/arm/v10/kinematics_offset.yaml
+[2.032s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/body/v10/inertials.yaml
+[2.042s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/body/v10/kinematics.yaml
+[2.053s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/body/v10/kinematics_link.yaml
+[2.065s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/inertials.yaml
+[2.076s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/joint_limits.yaml
+[2.087s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/kinematics.yaml
+[2.100s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/kinematics_link.yaml
+[2.112s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/ament_index/resource_index/package_run_dependencies/openarm_description
+[2.124s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/ament_index/resource_index/parent_prefix_path/openarm_description
+[2.136s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/environment/ament_prefix_path.sh
+[2.147s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/environment/ament_prefix_path.dsv
+[2.159s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/environment/path.sh
+[2.171s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/environment/path.dsv
+[2.182s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/local_setup.bash
+[2.194s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/local_setup.sh
+[2.206s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/local_setup.zsh
+[2.218s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/local_setup.dsv
+[2.229s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/package.dsv
+[2.241s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/ament_index/resource_index/packages/openarm_description
+[2.254s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/cmake/openarm_descriptionConfig.cmake
+[2.265s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/cmake/openarm_descriptionConfig-version.cmake
+[2.278s] -- Symlinking: /home/shiver/Desktop/openarm_ws/install/openarm_description/share/openarm_description/package.xml
+[2.292s] Invoked command in '/home/shiver/Desktop/openarm_ws/build/openarm_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/shiver/Desktop/openarm_ws/build/openarm_description
